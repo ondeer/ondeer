@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Önder</h1>
 <h3 align="center">Frontend developer</h3>
 
-📫 Reach me **ackgzonder@gmail.com**
+align="center" 📫 Reach me **ackgzonder@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
